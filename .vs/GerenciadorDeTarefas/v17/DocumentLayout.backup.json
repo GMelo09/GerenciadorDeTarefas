@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gustavo.mlima10\\source\\repos\\GerenciadorDeTarefas\\",
+  "WorkspaceRootPath": "C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|c:\\users\\gustavo.mlima10\\source\\repos\\gerenciadordetarefas\\gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|solutionrelative:gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|c:\\users\\gustavo.mlima10\\onedrive - senac - sp\\gerenciadordetarefas\\gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|solutionrelative:gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|c:\\users\\gustavo.mlima10\\source\\repos\\gerenciadordetarefas\\gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|solutionrelative:gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F47A86-82F1-4F82-8BE5-6B9D209EAB82}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|solutionrelative:gerenciadordetarefas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.mlima10\\source\\repos\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeTarefas\\Form1.cs",
-              "ToolTip": "C:\\Users\\gustavo.mlima10\\source\\repos\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
-              "RelativeToolTip": "GerenciadorDeTarefas\\Form1.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:24:13.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gustavo.mlima10\\source\\repos\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
               "RelativeDocumentMoniker": "GerenciadorDeTarefas\\Form1.cs",
-              "ToolTip": "C:\\Users\\gustavo.mlima10\\source\\repos\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs [Design]",
               "RelativeToolTip": "GerenciadorDeTarefas\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T16:49:27.637Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas\\Form1.cs",
+              "ToolTip": "C:\\Users\\gustavo.mlima10\\OneDrive - SENAC - SP\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Form1.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:24:13.715Z",
+              "EditorCaption": ""
             }
           ]
         }
