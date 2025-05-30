@@ -15,4 +15,4 @@ Para garantir a integridade dos dados, o sistema realiza algumas validações im
 Abaixo você pode conferir uma imagem da interface do sistema em funcionamento, mostrando como as tarefas ficam organizadas no DataGridView e as opções de cadastro e remoção disponíveis:
 
 
-     ![Gerenciador de tarefas](GerenciadorDeTarefas/imagens/print.png)
+     ![Gerenciador de tarefas](GerenciadorDeTarefas/imagens/)
